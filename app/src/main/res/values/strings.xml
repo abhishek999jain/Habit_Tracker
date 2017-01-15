@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="action_insert_dummy_data">Insert dummy row</string>
+    <string name="action_delete_all_data">Delete all habits</string>
+</resources>
